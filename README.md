@@ -16,15 +16,15 @@
   - 개인 프로젝트( 16.09 ~ 현재 )  
   - 현 사용자 2600명(17.07.02 기준, 지속적으로 늘어나는 중)
   - 사이트 : [공식 페이지](https://pf.kakao.com/_LffxoM), [github](https://github.com/hmu332233/LetMeKnow.jbnu--ChatBot--)
-
 <br/>
+
 - **Remedi** : 약사와 환자를 이어주는 플랫폼
   - ![android](https://img.shields.io/badge/platform-android-green.svg)
   - 팀 프로젝트( 16.07 ~ 16.08 )
   - 사이트 : [github](https://github.com/hmu332233/remedi)
   - 약 데이터 파싱 알고리즘 및 그에 해당하는 view 개발
-
 <br/>
+
 - **myPort** : sns형 포트폴리오 관리 서비스
   - ![web](https://img.shields.io/badge/platform-web-lightgrey.svg) ![Framework](https://img.shields.io/badge/framework-RubyOnRails-red.svg)
   - 팀 프로젝트( 17.03 ~ 17.06 )
