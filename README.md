@@ -5,9 +5,17 @@
 ![1](https://img.shields.io/badge/email-hmu332233%40gmail.com-green.svg)
 
 ## Experience
+
+- **멋쟁이사자처럼** ( 16.03 ~ 현재 )
+  - 2016 : RubyOnRails 교육 이수
+  - 2017 : 튜터로 활동하여 비전공자들을 대상으로 교육 진행 중
+<br/>
+
 - **(주)우리요 개발팀 인턴** ( 16.06 ~ 16.08 )
   - Android e-book 시스템 개발
-  - 페이징 처리, 기기별 view 최적화
+    - 페이징 처리
+    - 기기별 view 최적화
+
 
 ## Project
 
