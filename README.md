@@ -15,6 +15,10 @@
   - Android e-book 시스템 개발
     - 페이징 처리
     - 기기별 view 최적화
+<br/>
+
+- **codigm 인턴** ( 17.09 ~ 현재 )
+  - 구름 IDE 개발팀
 
 
 ## Project
@@ -52,7 +56,7 @@
 
 ## Techincal Skills
   - Strong : Java, Ruby, RubyOnRails, git/github
-  - Knowledgeable : c, cpp, python, javascript, node.js, MySQL, spring, bootstrap, AWS, RESTful API
+  - Knowledgeable : c, cpp, javascript, node.js, MySQL, spring, bootstrap, AWS, RESTful API, mongoDB
 
 ## Education
 
