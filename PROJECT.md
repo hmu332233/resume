@@ -1,5 +1,11 @@
 ## projects
 
+- **DailyCommitChecker** : 사용자 간 한 주 동안의 github 활동을 한눈에 볼 수 있어 서로에게 자극이 될 수 있도록 하는 웹페이지
+  - ![web](https://img.shields.io/badge/platform-web-lightgrey.svg) ![React](https://img.shields.io/badge/Library-React-green.svg)
+  - 상세정보 : [github - DailyCommitChecker](https://github.com/hmu332233/DailyCommitChecker)
+  - 개인 프로젝트( 17.12 ~ 17.12 )
+<br/>
+
 - **myPort** : sns형 포트폴리오 관리 서비스
   - ![web](https://img.shields.io/badge/platform-web-lightgrey.svg) ![Framework](https://img.shields.io/badge/framework-RubyOnRails-red.svg)
   - 상세정보 : [github - myport](https://github.com/hmu332233/myport)
